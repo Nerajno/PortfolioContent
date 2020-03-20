@@ -1,30 +1,36 @@
-Responsive HTML5 website template for developers
+# Personal Site Requirement
 
-Theme name:
-=======================================================================
-Developer
+## What This Is
+One Paragraph of project description goes here
 
-Theme version:
-=======================================================================
-v1.5
+## What I Need To Do
+- [x] this is a complete item
 
-Release Date:
-=======================================================================
-07 Jan 2016
 
-Author: 
-=======================================================================
-Xiaoying Riley at 3rd Wave Media (http://themes.3rdwavemedia.com/)
 
-Contact:
-=======================================================================
-Web: http://themes.3rdwavemedia.com/
-Email: hello@3rdwavemedia.com
-Twitter: @3rdwave_themes
+### Prerequisites
 
-License: 
-=======================================================================
-This template is free under the Creative Commons Attribution 3.0 License.
-https://creativecommons.org/licenses/by/3.0/
 
-If you'd like to use the template without the attribution, you can check out other license options via our website: http://themes.3rdwavemedia.com/
+## Running the tests
+N/A
+
+
+## Built With
+
+
+## Versioning
+Use Netlify version tags
+
+## Authors
+* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+
+## Acknowledgments
+
+* Hat tip to anyone whose code was used
+
+* Inspiration
+
