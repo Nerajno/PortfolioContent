@@ -8,8 +8,10 @@ One Paragraph of project description goes here
 - [ ] Kill the auto refresh
 - [ ] Organize the skills into bullet points. 
 - [ ] Do a screencast of each project and how it works.
-- [ ] Get rid of Picture
-- [ ] Center the header and change the logo to the dev logo.
+- [x] Get rid of Picture
+- [ ] Center the header 
+- [ ] change the logo to the dev logo.
+-[ ] Upgrade font awesome version.
 - [ ] Add year to Mico year
 - [ ] Change "View on Github" to "Github Repo" #otherprojects
 - [ ] Add View live version #otherprojects
@@ -21,6 +23,7 @@ One Paragraph of project description goes here
 - [ ] Change background to clear lagoon, use this as reference => https://coolbackgrounds.io/
 - [ ] Get a review from a better paid developer
 - [ ] Try to enable dark mode. 
+- [ ] Clean up code.
 - [ ] Make notes for React Refactoring.
 
 
