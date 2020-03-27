@@ -5,15 +5,15 @@ One Paragraph of project description goes here
 
 ## What I Need To Do
 - [x] this is a complete item
-- [ ] Kill the auto refresh
+- [x] Kill the auto refresh
 - [ ] Organize the skills into bullet points. 
 - [ ] Do a screencast of each project and how it works.
 - [x] Get rid of Picture
-- [ ] Center the header 
+- [x] Center the header 
 - [ ] change the logo to the dev logo.
 - [ ] Upgrade font awesome version.
-- [ ] Add year to Mico year
-- [ ] Change "View on Github" to "Github Repo" #otherprojects
+- [x] Add year to Mico year
+- [x] Change "View on Github" to "Github Repo" #otherprojects
 - [ ] Add View live version #otherprojects
 - [ ] Add How to use it video #otherprojects
 - [ ] Making / Refactor Relevant wrk experience && Space the bullet points
