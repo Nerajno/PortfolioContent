@@ -11,7 +11,7 @@ One Paragraph of project description goes here
 - [x] Get rid of Picture
 - [ ] Center the header 
 - [ ] change the logo to the dev logo.
--[ ] Upgrade font awesome version.
+- [ ] Upgrade font awesome version.
 - [ ] Add year to Mico year
 - [ ] Change "View on Github" to "Github Repo" #otherprojects
 - [ ] Add View live version #otherprojects
