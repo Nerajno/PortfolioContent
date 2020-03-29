@@ -6,23 +6,26 @@ One Paragraph of project description goes here
 ## What I Need To Do
 - [x] this is a complete item
 - [x] Kill the auto refresh
-- [ ] Organize the skills into bullet points. 
-- [ ] Do a screencast of each project and how it works.
-- [x] Get rid of Picture
-- [x] Center the header 
-- [ ] change the logo to the dev logo.
-- [ ] Upgrade font awesome version.
 - [x] Add year to Mico year
 - [x] Change "View on Github" to "Github Repo" #otherprojects
+- [x] Get rid of Picture
+- [x] Center the header 
+- [x] Add recent tweets to an aside after conferences.
+- [ ] Organize the skills into bullet points. 
+- [ ] Do a screencast of each project and how it works.
+- [ ] change the logo to the dev logo.
+- [ ] Upgrade font awesome version.
 - [ ] Add View live version #otherprojects
 - [ ] Add How to use it video #otherprojects
 - [ ] Making / Refactor Relevant wrk experience && Space the bullet points
-- [ ] Add recent tweets to an aside after conferences.
+
 - [ ] Add to the bottom - a version tag, Tweet tag after the designed by me
 - [ ] Change the designed by me to Something else
 - [ ] Change background to clear lagoon, use this as reference => https://coolbackgrounds.io/
 - [ ] Get a review from a better paid developer
-- [ ] Try to enable dark mode. 
+- [ ] Try to enable dark mode. => https://darkmodejs.learn.uno/
+- [ ] Move hosting to Netlify
+- [ ] Add a SSL => https://www.sslforfree.com/create?domains=www.developindvlpr.com+developindvlpr.com
 - [ ] Clean up code.
 - [ ] Make notes for React Refactoring.
 
