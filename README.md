@@ -11,10 +11,10 @@ One Paragraph of project description goes here
 - [x] Get rid of Picture
 - [x] Center the header 
 - [x] Add recent tweets to an aside after conferences.
-- [ ] Organize the skills into bullet points. 
+- [x] Organize the skills alphabetically. 
+- [x] Upgrade font awesome version.
 - [ ] Do a screencast of each project and how it works.
 - [ ] change the logo to the dev logo.
-- [ ] Upgrade font awesome version.
 - [ ] Add View live version #otherprojects
 - [ ] Add How to use it video #otherprojects
 - [ ] Making / Refactor Relevant wrk experience && Space the bullet points
