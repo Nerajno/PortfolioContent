@@ -13,6 +13,7 @@ One Paragraph of project description goes here
 - [x] Add recent tweets to an aside after conferences.
 - [x] Organize the skills alphabetically. 
 - [x] Upgrade font awesome version.
+- [x] Fix all font awesome icons and make them smaller.  
 - [ ] Do a screencast of each project and how it works.
 - [ ] change the logo to the dev logo.
 - [ ] Add View live version #otherprojects
