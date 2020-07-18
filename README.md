@@ -25,17 +25,11 @@ One Paragraph of project description goes here
 - [ ] Change background to clear lagoon, use this as reference => https://coolbackgrounds.io/
 - [ ] Get a review from a better paid developer
 - [ ] Try to enable dark mode. => https://darkmodejs.learn.uno/
-- [ ] Move hosting to Netlify
+- [x] Move hosting to Netlify
 - [ ] Add a SSL => https://www.sslforfree.com/create?domains=www.developindvlpr.com+developindvlpr.com
 - [ ] Clean up code.
 - [ ] Make notes for React Refactoring.
 
-
-### Prerequisites
-
-
-## Running the tests
-N/A
 
 
 ## Built With
