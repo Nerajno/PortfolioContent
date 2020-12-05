@@ -1,7 +1,7 @@
 # Personal Site Requirement
 
 ## What This Is
-One Paragraph of project description goes here
+Personal Portfolio Content
 
 ## What I Need To Do
 - [x] this is a complete item
