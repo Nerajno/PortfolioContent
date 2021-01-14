@@ -408,11 +408,11 @@ iframe {
   font-weight: 500;
 }
 .testimonials .item .source .name {
-  color: #939ea9;
+  color: rgb(55, 40, 95);
   font-weight: 600;
 }
 .testimonials .item .source .title {
-  color: #999;
+  color: rgb(55, 40, 95);
 }
 /* Education section */
 .education .item {
