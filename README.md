@@ -15,15 +15,15 @@ Personal Portfolio Content
 - [x] Upgrade font awesome version.
 - [x] Fix all font awesome icons and make them smaller.  
 - [ ] Do a screencast of each project and how it works.
-- [ ] change the logo to the dev logo.
+- [x] change the logo to the dev logo.
 - [ ] Add View live version #otherprojects
 - [ ] Add How to use it video #otherprojects
 - [ ] Making / Refactor Relevant wrk experience && Space the bullet points
 
 - [ ] Add to the bottom - a version tag, Tweet tag after the designed by me
-- [ ] Change the designed by me to Something else
+- [x] Change the designed by me to Something else
 - [ ] Change background to clear lagoon, use this as reference => https://coolbackgrounds.io/
-- [ ] Get a review from a better paid developer
+- [x] Get a review from a better paid developer
 - [ ] Try to enable dark mode. => https://darkmodejs.learn.uno/
 - [x] Move hosting to Netlify
 - [ ] Add a SSL => https://www.sslforfree.com/create?domains=www.developindvlpr.com+developindvlpr.com
@@ -49,7 +49,7 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Acknowledgments
 
-* Hat tip to anyone whose code was used
+* Hat tip to anyone whose code was used.
 
 * Inspiration
 
