@@ -26,9 +26,9 @@ Personal Portfolio Content
 - [x] Get a review from a better paid developer
 - [ ] Try to enable dark mode. => https://darkmodejs.learn.uno/
 - [x] Move hosting to Netlify
-- [ ] Add a SSL => https://www.sslforfree.com/create?domains=www.developindvlpr.com+developindvlpr.com
+- [x] Add a SSL => https://www.sslforfree.com/create?domains=www.developindvlpr.com+developindvlpr.com
 - [ ] Clean up code.
-- [ ] Make notes for React Refactoring.
+- [x] Make notes for React Refactoring.
 
 
 
