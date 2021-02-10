@@ -1,6 +1,5 @@
 jQuery(document).ready(function ($) {
 
-
     /*======= Skillset *=======*/
 
     /* Bootstrap Tooltip for Skillset */
