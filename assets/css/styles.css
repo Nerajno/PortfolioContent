@@ -9,8 +9,14 @@
 /* ======= Base ======= */
 body {
   font-family: 'Lato', arial, sans-serif;
-  color: #434343;
-  background: #DAE3E7;
+  color: #4b444c;
+  /* background: #DAE3E7; */
+  background:url(/assets/images/cool-background.png);
+  height: 100vh;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover; 
+  position: relative;
   font-size: 16px;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
@@ -23,7 +29,7 @@ h5,
 h6 {
   font-family: 'Montserrat', sans-serif;
   font-weight: 700;
-  color: #778492;
+  color: #68bbd4;
 }
 a {
   color: #3AAA64;
@@ -129,15 +135,15 @@ iframe {
   margin-right: 30px;
 }
 .header .profile-content .name {
-  color: #49515a;
+  color: #5b14ac;
   font-size: 38px;
   margin-bottom: 5px;
   margin-top: 30px;
 }
 .header .profile-content .desc {
-  color: #778492;
+  color: #68bbd4;
   font-family: "Lato", arial, sans-serif;
-  font-weight: 400;
+  /* font-weight: 400; */
   font-size: 24px;
   margin-top: 0;
   margin-bottom: 15px;
@@ -181,7 +187,7 @@ iframe {
 .section .heading {
   margin-top: 0;
   margin-bottom: 30px;
-  color: #545e69;
+  color: #5b14ac;
   font-size: 24px;
 }
 .section .content .more-link .fa {
@@ -568,6 +574,7 @@ iframe {
   background: black;
 }
 
+
 .section-inner ul li{
   font-family: "Lato", arial, sans-serif;
   font-size: .95em;
@@ -577,5 +584,9 @@ iframe {
 }
 
 p{
-  font-size: 1.1em;
+  font-size: 0.9em;
+}
+
+.header .profile-content .social a{
+ background: #5b14ac;
 }
