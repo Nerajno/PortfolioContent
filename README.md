@@ -1,4 +1,4 @@
-# Personal Site Requirement
+# Personal Site Requirements
 
 ## What This Is
 Personal Portfolio Content
@@ -16,7 +16,7 @@ Personal Portfolio Content
 - [x] Fix all font awesome icons and make them smaller.  
 - [ ] Do a screencast of each project and how it works.
 - [x] change the logo to the dev logo.
-- [ ] Add View live version #otherprojects
+- [x] Add View live version #otherprojects
 - [ ] Add How to use it video #otherprojects
 - [ ] Making / Refactor Relevant wrk experience && Space the bullet points
 
@@ -27,7 +27,7 @@ Personal Portfolio Content
 - [ ] Try to enable dark mode. => https://darkmodejs.learn.uno/
 - [x] Move hosting to Netlify
 - [x] Add a SSL => https://www.sslforfree.com/create?domains=www.developindvlpr.com+developindvlpr.com
-- [ ] Clean up code.
+- [x] Clean up code.
 - [x] Make notes for React Refactoring.
 
 
