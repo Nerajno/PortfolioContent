@@ -43,9 +43,11 @@ a {
 }
 
 a:hover {
-  text-decoration: underline;
-  color: #5f6b77;
-  color: #2d844e;
+  /* text-decoration: underline; */
+  /* color: #5f6b77; */
+  color: #68bbd4;
+  font-weight: bolder;
+  font-style: italic;
 }
 
 a:focus {
@@ -721,4 +723,8 @@ p {
 
 span.year{
   text-align: right;
+}
+
+.skillset-description {
+  color: #1e6980;
 }
