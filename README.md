@@ -18,7 +18,7 @@ Personal Portfolio Content
 - [x] change the logo to the dev logo.
 - [x] Add View live version #otherprojects
 - [ ] Add How to use it video #otherprojects
-- [ ] Making / Refactor Relevant wrk experience && Space the bullet points
+- [x] Making / Refactor Relevant wrk experience && Space the bullet points
 
 - [ ] Add to the bottom - a version tag, Tweet tag after the designed by me
 - [x] Change the designed by me to Something else
