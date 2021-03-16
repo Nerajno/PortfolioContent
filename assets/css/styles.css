@@ -36,11 +36,11 @@ h6 {
 a {
   /* color: #3AAA64; */
   color: #68bbd4;
-  -webkit-transition: all 0.4s ease-in-out;
-  -moz-transition: all 0.4s ease-in-out;
+  /* -webkit-transition: all 0.4s ease-in-out; */
+  /* -moz-transition: all 0.4s ease-in-out;
   -ms-transition: all 0.4s ease-in-out;
-  -o-transition: all 0.4s ease-in-out;
-}
+  -o-transition: all 0.4s ease-in-out; */
+} 
 
 a:hover {
   /* text-decoration: underline; */
@@ -56,10 +56,10 @@ a:focus {
 
 .btn,
 a.btn {
-  -webkit-transition: all 0.4s ease-in-out;
+  /* -webkit-transition: all 0.4s ease-in-out;
   -moz-transition: all 0.4s ease-in-out;
   -ms-transition: all 0.4s ease-in-out;
-  -o-transition: all 0.4s ease-in-out;
+  -o-transition: all 0.4s ease-in-out; */
   font-family: 'Montserrat', arial, sans-serif;
   padding: 8px 16px;
   font-weight: bold;
@@ -257,6 +257,7 @@ a.dotted-link:hover {
 
 .latest .featured img {
   margin-bottom: 30px;
+  margin: auto;
 }
 
 .latest .featured .desc {
@@ -709,4 +710,26 @@ span.year{
 
 .skillset-description {
   color: #1e6980;
+}
+
+h2.desc.resume{
+  font-family: inherit;
+  font-size: 24px;
+}
+
+.featured-link{
+  display: flex;
+  justify-content: center;
+}
+
+/* .featured-link.btn.btn-lg{
+  text-decoration: none;
+} */
+
+a.btn:visited{
+  text-decoration: none;
+}
+
+text.ContributionCalender-label{
+  color:#484242 !important;
 }
